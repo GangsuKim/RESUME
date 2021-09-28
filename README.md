@@ -22,7 +22,8 @@
 * 딥러닝
 * 블록체인
 
-![Love](image.jpg)
+![Love](Image.jpg)
+<img src=Image.jpg width=200>
 
 ------
 ## 오픈소스 커뮤니티 정리파일
