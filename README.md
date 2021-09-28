@@ -1,12 +1,30 @@
-# 한림대학교 소프트웨어융합대학
----
-<img src="Photo.jpg" height="300">
-김강수  
+# RESUME
 
----
+</br>
 
-소속 : 소프트웨어 융합대학  
-전공 : 빅데이터 전공  
+> # Gangsu Kim
+> <img src="Photo.jpg" height="300"/> </br>
+>> 대학생 </br>
+>> 프로그래머 </br>
+>> 병역 미필 </br>
+>> gangsu1813@naver.com
+>
+>> College Student </br>
+>> Programmer </br>
+>> Unfulfilled </br>
+>> gangsu1813@nave.com
+
+</br>
+
+> # Belong to
+> <img src="Hallym_SW.gif" width="500"/> </br>
+>> 한림대학교 소프트웨어 융합대학 </br>
+>> 빅데이터 전공 </br>
+>> 2학년 </br>
+>
+>> Hallym Univ. School of Software </br>
+>> Major of Big Data </br>
+>> Sophomore </br>
 
 관심분야
 * 생물정보학
