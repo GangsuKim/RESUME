@@ -26,26 +26,37 @@
 >> Major of Big Data </br>
 >> Sophomore </br>
 
-관심분야
-* 생물정보학
-* **인공지능**
-* 의료정보학
+</br>
 
-프로그래밍 언어 스킬   
-1. C
-2. Java
-3. Python
-4. R
+> # Language
+>> ## Most comfortable </br>
+>> <img height="30" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
+>
+>> ## Frontend </br>
+>> <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </br>
+>> <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </br>
+>
+>> ## Backend </br>
+>> <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> </br>
+>> <img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> </br>
+>> <img height="30" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> </br>
+>> <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </br>
 
---------
+</br>
 
-2021년도 2학기 수강 과목
-|과목|내용|학점|
-|---|---|---|
-|C 프로그래밍|C언어 개요|3|
-|Java 프로그래밍|Java 개요|3|
-|소프트웨어 세미나 1|최신 소프트웨어 트랜드|3|
+> # Projects
+>> ## GO API
+>> 
+>> ## GOLocker (2018~)
+>> <img src="GOLocker.png" width="150"/> </br>
+>> * 화면을 보호해 주는 화면 보호기
+>> * 개발 언어 : Autohotkey, PHP
+>> * [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)
 
-github addres : [GangsuKim][github]
+
+
+
+
+
 
 [github]: http://github.com/GangsuKim
