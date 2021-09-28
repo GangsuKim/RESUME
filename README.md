@@ -28,6 +28,6 @@
 |Java 프로그래밍|Java 개요|3|
 |소프트웨어 세미나 1|최신 소프트웨어 트랜드|3|
 
-github addres: [GangsuKim][github]
+github addres : [GangsuKim][github]
 
 [github]: http://github.com/GangsuKim
