@@ -24,3 +24,14 @@
 ----------------
 * jupyter notebook
 * tensor flow
+----
+### 관심있는 사이트 목록
+[한림대학교][hallym]
+
+### 주요 검색 사이트
+[구글][google]  
+[네이버][naver]
+
+[google]: https://www.google.com
+[naver]: https://www.naver.com
+[hallym]: https://www.hallym.ac.kr
