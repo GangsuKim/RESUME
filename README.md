@@ -52,7 +52,7 @@
 >>> 개발 언어 및 기술 : RFID, C#, PHP  
 >> 
 >>> Start-up club at Hally Univ.  
->>> Using Language and Technology : RFID, C#, PHP  
+>>> Develop Language and Technology : RFID, C#, PHP  
 >
 >> ## CORONA VIEW (2020~)
 >> <img src="CORONAView.png" width="300"/> </br>
@@ -62,7 +62,7 @@
 >>
 >>> chrome WEB STORE : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)  
 >>> Showing COVID-19 infected data by each city from user choice using GO-API through chrome Extension  
->>> Used Language : PHP, JavaScript, HTML, CSS
+>>> Develop Language : PHP, JavaScript, HTML, CSS
 >
 >> ## GO API (2020~)
 >> <img src="GO_APILicense.png" width="300"/> </br>
@@ -72,7 +72,7 @@
 >>
 >>> API Intro : [GO-API](http://api.go-guma.com/)  
 >>> Current status of COVID-19 confirmed patients in South Korea  
->>> Used Language : PHP, JavaScript, HTML, CSS  
+>>> Develop Language : PHP, JavaScript, HTML, CSS  
 >
 >> ## GOLocker (2018~2020)
 >> <img src="GOLocker.png" width="150"/> </br>
@@ -82,7 +82,7 @@
 >>
 >>> BLOG : [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)  
 >>> Protect showing display  
->>> Used Language : Autohotkey, PHP  
+>>> Develope Language : Autohotkey, PHP  
 
 </br>
 
