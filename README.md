@@ -28,6 +28,17 @@
 >> Major of Big Data </br>
 >> Sophomore </br>
 
+> # Education
+>> 한림대학교 소프트웨어 융합대학 (2020 ~ )  
+>> 원주 대성고등학교 (2018 ~ 2020)  
+>> 미국 콜로라도주 Arvada West High School (2016 ~ 2017)  
+>> 원주 대성고등학교 (2016 ~ 2017)  
+>
+>> School of Software at Hallym Univ., Chunchon-si, South Korea(2020 ~ )  
+>> Wonju DaeSung High School, Wonju-si, South Korea (2018 ~ 2020)  
+>> Arvada West High School, Denver, Colorado, United States (2016 ~ 2017)  
+>> Wonju DaeSung High School, Wonju-si, South Korea (2016 ~ 2017)  
+
 </br>
 
 > # Language
@@ -96,4 +107,5 @@
 > ![GO-GUMA](GO.png)
 >> # [GO-GUMA Corp.](http://www.go-guma.com)
 >> Programming Corporation.  
->> Since. 2016
+>> Since. 2016  
+>> github : [GO-GUMA Github.](https://github.com/GO-GUMA)
