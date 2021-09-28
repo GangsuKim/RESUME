@@ -48,21 +48,44 @@
 >> ## 태그 TAG (2021~)
 >>> 한림대학교 소속 창업동아리  
 >>> 개발 언어 및 기술 : RFID, C#, PHP  
+>> 
+>>> Start-up club at Hally Univ.  
+>>> Using Language and Technology : RFID, C#, PHP  
 >
 >> ## CORONA VIEW (2020~)
 >> <img src="CORONAView.png" width="300"/> </br>
 >>> chrome 웹 스토어 : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)  
 >>> GO-API를 활용한 사용자의 선택에 따른 확진자를 보여주는 크롬 Extension  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS
+>>
+>>> chrome WEB STORE : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)  
+>>> Showing COVID-19 infected data by each city from user choice using GO-API through chrome Extension  
+>>> Used Language : PHP, JavaScript, HTML, CSS
 >
 >> ## GO API (2020~)
 >> <img src="GO_APILicense.png" width="300"/> </br>
 >>> API소개 : [GO-API](http://api.go-guma.com/)  
 >>> 16개 광역시,도의 각 시,군,구별 COVID-19 확진자 현황  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS  
+>>
+>>> API Intro : [GO-API](http://api.go-guma.com/)  
+>>> Current status of COVID-19 confirmed patients in South Korea  
+>>> Used Language : PHP, JavaScript, HTML, CSS  
 >
 >> ## GOLocker (2018~2020)
 >> <img src="GOLocker.png" width="150"/> </br>
 >>> BLOG : [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)  
 >>> 화면을 보호해 주는 화면 보호기  
 >>> 개발 언어 : Autohotkey, PHP  
+>>
+>>> BLOG : [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)  
+>>> Protect showing display  
+>>> Used Language : Autohotkey, PHP  
+
+</br>
+
+> # Branding
+> ![GO-GUMA](GO.png)
+>> # [GO-GUMA Corp.](http://www.go-guma.com)
+>> Programming Corporation.  
+>> Since. 2016
