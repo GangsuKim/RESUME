@@ -61,9 +61,11 @@
 >> ## 태그 TAG (2021~)
 >>> 한림대학교 소속 창업동아리  
 >>> 개발 언어 및 기술 : RFID, C#, PHP  
+>>> 팀 프로젝트
 >> 
 >>> Start-up club at Hally Univ.  
 >>> Develop Language and Technology : RFID, C#, PHP  
+>>> Team Project
 >
 >> ## CORONA VIEW (2020~)
 >> <img src="CORONAView.png" width="300"/> </br>
