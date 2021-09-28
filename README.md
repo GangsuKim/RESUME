@@ -13,7 +13,7 @@
 >> College Student </br>
 >> Programmer </br>
 >> Unfulfilled </br>
->> Operator at [GO-GUMA Corp.](#branding)
+>> Operator at [GO-GUMA Corp.](#branding)  
 >> gangsu1813@nave.com
 
 </br>
