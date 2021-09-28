@@ -58,31 +58,37 @@
 >> <img src="CORONAView.png" width="300"/> </br>
 >>> chrome 웹 스토어 : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)  
 >>> GO-API를 활용한 사용자의 선택에 따른 확진자를 보여주는 크롬 Extension  
->>> 개발 언어 : PHP, JavaScript, HTML, CSS
+>>> 개발 언어 : PHP, JavaScript, HTML, CSS  
+>>> 개인 프로젝트  
 >>
 >>> chrome WEB STORE : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)  
 >>> Showing COVID-19 infected data by each city from user choice using GO-API through chrome Extension  
->>> Develop Language : PHP, JavaScript, HTML, CSS
+>>> Develop Language : PHP, JavaScript, HTML, CSS  
+>>> Solo Project  
 >
 >> ## GO API (2020~)
 >> <img src="GO_APILicense.png" width="300"/> </br>
 >>> API소개 : [GO-API](http://api.go-guma.com/)  
 >>> 16개 광역시,도의 각 시,군,구별 COVID-19 확진자 현황  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS  
+>>> 개인 프로젝트  
 >>
 >>> API Intro : [GO-API](http://api.go-guma.com/)  
 >>> Current status of COVID-19 confirmed patients in South Korea  
 >>> Develop Language : PHP, JavaScript, HTML, CSS  
+>>> Solo Project  
 >
 >> ## GOLocker (2018~2020)
 >> <img src="GOLocker.png" width="150"/> </br>
 >>> BLOG : [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)  
 >>> 화면을 보호해 주는 화면 보호기  
 >>> 개발 언어 : Autohotkey, PHP  
+>>> 개인 프로젝트  
 >>
 >>> BLOG : [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)  
 >>> Protect showing display  
 >>> Develope Language : Autohotkey, PHP  
+>>> Solo Project  
 
 </br>
 
