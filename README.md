@@ -5,3 +5,8 @@
 #### 이름 : 김강수
 #### email : gangsu1813@naver.com
 #### Univ : Hallym University
+
+> 취미
+>> 스키  
+>> 낚시  
+>> 여행  
