@@ -22,7 +22,7 @@
 >> 빅데이터 전공 </br>
 >> 2학년 </br>
 >
->> Hallym Univ. School of Software </br>
+>> School of Software at Hallym Univ. </br>
 >> Major of Big Data </br>
 >> Sophomore </br>
 
