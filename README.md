@@ -7,11 +7,13 @@
 >> 대학생 </br>
 >> 프로그래머 </br>
 >> 병역 미필 </br>
+>> [GO-GUMA Corp.](#branding) 오퍼레이터  
 >> gangsu1813@naver.com
 >
 >> College Student </br>
 >> Programmer </br>
 >> Unfulfilled </br>
+>> Operator at [GO-GUMA Corp.](#branding)
 >> gangsu1813@nave.com
 
 </br>
