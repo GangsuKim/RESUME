@@ -60,12 +60,24 @@
 </br>
 
 > # Projects
->> ## 태그 TAG (2021~)
+>> ## 태그 TAG (2021.09 ~ )
 >>> 한림대학교 소속 창업동아리  
 >>> 개발 언어 및 기술 : RFID, C#, PHP  
 >>> 팀 프로젝트
 >> 
 >>> Start-up club at Hally Univ.  
+>>> Develop Language and Technology : RFID, C#, PHP  
+>>> Team Project
+>
+>> ## ACM (2021.03 ~ 2021.08)
+>> <img src="ACM.png" width="100"/> </br>
+>>> 한림대학교 소속 창업동아리  
+>>> IoT 기반 펫 케어 시스템  
+>>> 개발 언어 및 기술 : RFID, C#, PHP  
+>>> 팀 프로젝트
+>> 
+>>> Start-up club at Hally Univ.  
+>>> IoT based pet care system  
 >>> Develop Language and Technology : RFID, C#, PHP  
 >>> Team Project
 >
