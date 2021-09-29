@@ -73,12 +73,14 @@
 >> <img src="ACM.png" width="100"/> </br>
 >>> 한림대학교 소속 창업동아리  
 >>> IoT 기반 펫 케어 시스템  
->>> 개발 언어 및 기술 : RFID, C#, PHP  
+>>> 개발 언어 및 기술 : Python, Raspberry Pi  
+>>> 역할 : 라즈베리파이 파트 개발 (30%)   
 >>> 팀 프로젝트
 >> 
 >>> Start-up club at Hally Univ.  
 >>> IoT based pet care system  
->>> Develop Language and Technology : RFID, C#, PHP  
+>>> Develop Language and Technology : Python, Raspberry Pi  
+>>> Part : Developed Raspberry Pi part (30%)  
 >>> Team Project
 >
 >> ## CORONA VIEW (2020~)
