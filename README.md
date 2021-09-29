@@ -28,6 +28,8 @@
 >> Major of Big Data </br>
 >> Sophomore </br>
 
+</br>
+
 > # Education
 >> 한림대학교 소프트웨어 융합대학 (2020 ~ )  
 >> 원주 대성고등학교 (2018 ~ 2020)  
