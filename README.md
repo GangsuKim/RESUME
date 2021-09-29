@@ -3,7 +3,7 @@
 </br>
 
 > # Gangsu Kim
-> <img src="Photo.jpg" height="300"/> </br>
+> <img src="img/Photo.jpg" height="300"/> </br>
 >> 대학생 </br>
 >> 프로그래머 </br>
 >> 병역 미필 </br>
@@ -19,7 +19,7 @@
 </br>
 
 > # Belong to
-> <img src="Hallym_SW.gif" width="500"/> </br>
+> <img src="img/Hallym_SW.gif" width="500"/> </br>
 >> 한림대학교 소프트웨어 융합대학 </br>
 >> 빅데이터 전공 </br>
 >> 2학년 </br>
@@ -77,7 +77,7 @@
 >>> Team Project
 >
 >> ## ACM (2021.03 ~ 2021.08)
->> <img src="ACM.png" width="100"/> </br>
+>> <img src="img/ACM.png" width="100"/> </br>
 >>> 한림대학교 소속 창업동아리  
 >>> IoT 기반 펫 케어 시스템  
 >>> 개발 언어 및 기술 : Python, Raspberry Pi  
@@ -91,7 +91,7 @@
 >>> Team Project
 >
 >> ## CORONA VIEW (2020~)
->> <img src="CORONAView.png" width="300"/> </br>
+>> <img src="img/CORONAView.png" width="300"/> </br>
 >>> chrome 웹 스토어 : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)   
 >>> GO-API를 활용한 사용자의 선택에 따른 확진자를 보여주는 크롬 Extension  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS  
@@ -103,7 +103,7 @@
 >>> Solo Project  
 >
 >> ## GO API (2020~)
->> <img src="GO_APILicense.png" width="300"/> </br>
+>> <img src="img/GO_APILicense.png" width="300"/> </br>
 >>> API소개 : [GO-API](http://api.go-guma.com/)  
 >>> 16개 광역시,도의 각 시,군,구별 COVID-19 확진자 현황  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS  
@@ -115,7 +115,7 @@
 >>> Solo Project  
 >
 >> ## GOLocker (2018~2020)
->> <img src="GOLocker.png" width="150"/> </br>
+>> <img src="img/GOLocker.png" width="150"/> </br>
 >>> BLOG : [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)  
 >>> 화면을 보호해 주는 화면 보호기  
 >>> 개발 언어 : Autohotkey, PHP  
@@ -129,7 +129,7 @@
 </br>
 
 > # Branding
-> ![GO-GUMA](GO.png)
+> ![GO-GUMA](img/GO.png)
 >> # [GO-GUMA Corp.](http://www.go-guma.com)
 >> Programming Corporation.  
 >> Since. 2016  
