@@ -43,6 +43,11 @@
 
 </br>
 
+> # Award
+>> 제 32회 한국정보올림피아드 강원도대회 중학생부 동상 (2015)  
+>
+>> The 32nd Korea Olympiad in Informatics Gangwon-do Middle School Student Club 3rd place (2015)  
+
 > # Language
 >> ## Most comfortable </br>
 >> <img height="30" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
