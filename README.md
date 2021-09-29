@@ -85,7 +85,7 @@
 >
 >> ## CORONA VIEW (2020~)
 >> <img src="CORONAView.png" width="300"/> </br>
->>> chrome 웹 스토어 : <a href="https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol" target="_blank">CORONA VIEW</a>  
+>>> chrome 웹 스토어 : <a target="_blank" href="https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol">CORONA VIEW</a>  
 >>> GO-API를 활용한 사용자의 선택에 따른 확진자를 보여주는 크롬 Extension  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS  
 >>> 개인 프로젝트  
