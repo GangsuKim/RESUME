@@ -48,6 +48,8 @@
 >
 >> The 32nd Korea Olympiad in Informatics Gangwon-do Middle School Student Club 3rd place (2015)  
 
+</br>
+
 > # Language
 >> ## Most comfortable </br>
 >> <img height="30" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
