@@ -96,11 +96,13 @@
 >>> GO-API를 활용한 사용자의 선택에 따른 확진자를 보여주는 크롬 Extension  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS  
 >>> 개인 프로젝트  
+>>> CORONA VIEW에 대한 자세한 내용은 [여기](https://github.com/GO-GUMA/CORONAView)에서 확인하실 수 있습니다.
 >>
 >>> chrome WEB STORE : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)  
 >>> Showing COVID-19 infected data by each city from user choice using GO-API through chrome Extension  
 >>> Develop Language : PHP, JavaScript, HTML, CSS  
 >>> Solo Project  
+>>> Details of CORONA VIEW can be found [here](https://github.com/GO-GUMA/CORONAView). 
 >
 >> ## GO API (2020~)
 >> <img src="img/GO_APILicense.png" width="300"/> </br>
