@@ -51,8 +51,15 @@
 </br>
 
 > # Language
->> ## Most comfortable </br>
->> <img height="30" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
+<!-- >> ## Most comfortable </br> -->
+>> ## <img height="40" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
+>>> 프로그램을 제작하는 데 있어서 가장 능숙한 언어입니다.  
+>>> 간단한 프로그램부터 웹 연동, 데이터 베이스 연동 등의 복잡한 부분까지 개발 가능합니다.  
+>>> GOLocker, SmartLEADer 와 같은 프로그램을 본 언어로 개발하였습니다.  
+>>
+>>> Most comfortable language for developing programs  
+>>> Possible to build simple programs to complex programs using WEB and Database   
+>>> GOLocker, SmartLEADer are made of Autohotkey   
 >
 >> ## Frontend </br>
 >> <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </br>
