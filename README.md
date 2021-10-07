@@ -69,10 +69,12 @@
 > # Projects
 >> ## 태그 TAG (2021.09 ~ )
 >>> 한림대학교 소속 창업동아리  
+>>> RFID 기술을 이용한 손목 밴드형 학생증 및 시스템 개발  
 >>> 개발 언어 및 기술 : RFID, C#, PHP  
 >>> 팀 프로젝트
 >> 
 >>> Start-up club at Hally Univ.  
+>>> Using RFID to develope 'Wrist ID Card' and system  
 >>> Develop Language and Technology : RFID, C#, PHP  
 >>> Team Project
 >
