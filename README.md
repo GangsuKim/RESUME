@@ -55,11 +55,11 @@
 >> ## <img height="40" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
 >>> 프로그램을 제작하는 데 있어서 가장 능숙한 언어입니다.  
 >>> 간단한 프로그램부터 웹 연동, 데이터 베이스 연동 등의 복잡한 부분까지 개발 가능합니다.  
->>> GOLocker, SmartLEADer 와 같은 프로그램을 본 언어로 개발하였습니다.  
+>>> [GOLocker](#golocker-20182020), [SmartLEADer][SmartLEADer] 와 같은 프로그램을 본 언어로 개발하였습니다.  
 >>
 >>> Most comfortable language for developing programs  
 >>> Possible to build simple programs to complex programs using WEB and Database   
->>> GOLocker, SmartLEADer are made of Autohotkey   
+>>> [GOLocker](#golocker-20182020), [SmartLEADer][SmartLEADer] are made of Autohotkey   
 > 
 >> ## <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 >>> HTML과 CSS를 이용하여 간단한 웹페이지 제작이 가능합니다.  
@@ -148,3 +148,6 @@
 >> Programming Corporation.  
 >> Since. 2016  
 >> github : [GO-GUMA Github.](https://github.com/GO-GUMA)
+
+<!-- Markdown Links -->
+[SmartLEADer]: https://github.com/GO-GUMA/SmartLEADer
