@@ -104,38 +104,38 @@
 >
 >> ## CORONA VIEW (2020~)
 >> <img src="img/CORONAView.png" width="300"/> </br>
->>> chrome 웹 스토어 : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)   
+>>> chrome 웹 스토어 : [CORONA VIEW][CORONAView_chrome]   
 >>> GO-API를 활용한 사용자의 선택에 따른 확진자를 보여주는 크롬 Extension  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS  
 >>> 개인 프로젝트  
->>> CORONA VIEW에 대한 자세한 내용은 [여기](https://github.com/GO-GUMA/CORONAView)에서 확인하실 수 있습니다.
+>>> CORONA VIEW에 대한 자세한 내용은 [여기][CORONAView_git]에서 확인하실 수 있습니다.
 >>
->>> chrome WEB STORE : [CORONA VIEW](https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol)  
+>>> chrome WEB STORE : [CORONA VIEW][CORONAView_chrome]    
 >>> Showing COVID-19 infected data by each city from user choice using GO-API through chrome Extension  
 >>> Develop Language : PHP, JavaScript, HTML, CSS  
 >>> Solo Project  
->>> Details of CORONA VIEW can be found [here](https://github.com/GO-GUMA/CORONAView). 
+>>> Details of CORONA VIEW can be found [here][CORONAView_git]. 
 >
 >> ## GO API (2020~)
 >> <img src="img/GO_APILicense.png" width="300"/> </br>
->>> API소개 : [GO-API](http://api.go-guma.com/)  
+>>> API소개 : [GO-API][GO-API_Link]  
 >>> 16개 광역시,도의 각 시,군,구별 COVID-19 확진자 현황  
 >>> 개발 언어 : PHP, JavaScript, HTML, CSS, Json  
 >>> 개인 프로젝트  
 >>
->>> API Intro : [GO-API](http://api.go-guma.com/)  
+>>> API Intro : [GO-API][GO-API_Link]  
 >>> Current status of COVID-19 confirmed patients in South Korea  
 >>> Develop Language : PHP, JavaScript, HTML, CSS, Json  
 >>> Solo Project  
 >
 >> ## GOLocker (2018~2020)
 >> <img src="img/GOLocker.png" width="150"/> </br>
->>> BLOG : [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)  
+>>> BLOG : [GOLocker][GOLocker_Link]  
 >>> 화면을 보호해 주는 화면 보호기  
 >>> 개발 언어 : Autohotkey, PHP  
 >>> 개인 프로젝트  
 >>
->>> BLOG : [GOLocker](https://m.blog.naver.com/gangsu1813/221341360059)  
+>>> BLOG : [GOLocker][GOLocker_Link]  
 >>> Protect showing display  
 >>> Develope Language : Autohotkey, PHP  
 >>> Solo Project  
@@ -144,10 +144,17 @@
 
 > # Branding
 > ![GO-GUMA](img/GO.png)
->> # [GO-GUMA Corp.](http://www.go-guma.com)
+>> # GO-GUMA Corp.
 >> Programming Corporation.  
 >> Since. 2016  
->> github : [GO-GUMA Github.](https://github.com/GO-GUMA)
+>> Brand site : [GO-GUMA][GO-GUMA]  
+>> github : [GO-GUMA Github.][GO-GUMA git]
 
 <!-- Markdown Links -->
+[GOLocker_Link]: https://m.blog.naver.com/gangsu1813/221341360059
 [SmartLEADer]: https://github.com/GO-GUMA/SmartLEADer
+[GO-API_Link]: http://api.go-guma.com/
+[CORONAView_git]: https://github.com/GO-GUMA/CORONAView
+[CORONAView_chrome]: https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol
+[GO-GUMA]: http://www.go-guma.com
+[GO-GUMA git]: https://github.com/GO-GUMA
