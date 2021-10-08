@@ -60,14 +60,17 @@
 >>> Most comfortable language for developing programs  
 >>> Possible to build simple programs to complex programs using WEB and Database   
 >>> GOLocker, SmartLEADer are made of Autohotkey   
->
->> ## Frontend </br>
->> <img height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> </br>
->> <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </br>
+> 
+>> ## <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
+>>> HTML과 CSS를 이용하여 간단한 웹페이지 제작이 가능합니다.  
+>>> javaScript, PHP와 같은 Backend 언어와의 연동 작업도 할 수 있습니다.  
+>>> [GO-API Docs.](http://api.go-guma.com/) 사이트 와 GO-API 서비스를 위의 언어로 개발 하였습니다.
+>>
+>>> Can build simple web pages using HTML and CSS.  
+>>> Work with Backend language such as javaScript and PHP.  
+>>> [GO-API Docs.](http://api.go-guma.com/) and GO-API Service were built using above languages
 >
 >> ## Backend </br>
->> <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> </br>
->> <img height="30" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> </br>
 >> <img height="30" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> </br>
 >> <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </br>
 
