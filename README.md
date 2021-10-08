@@ -120,12 +120,12 @@
 >> <img src="img/GO_APILicense.png" width="300"/> </br>
 >>> API소개 : [GO-API](http://api.go-guma.com/)  
 >>> 16개 광역시,도의 각 시,군,구별 COVID-19 확진자 현황  
->>> 개발 언어 : PHP, JavaScript, HTML, CSS  
+>>> 개발 언어 : PHP, JavaScript, HTML, CSS, Json  
 >>> 개인 프로젝트  
 >>
 >>> API Intro : [GO-API](http://api.go-guma.com/)  
 >>> Current status of COVID-19 confirmed patients in South Korea  
->>> Develop Language : PHP, JavaScript, HTML, CSS  
+>>> Develop Language : PHP, JavaScript, HTML, CSS, Json  
 >>> Solo Project  
 >
 >> ## GOLocker (2018~2020)
