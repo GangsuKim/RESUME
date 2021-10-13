@@ -50,8 +50,8 @@
 
 </br>
 
-> # Language
 <!-- >> ## Most comfortable </br> -->
+> # Language
 >> ## <img height="40" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
 >>> 프로그램을 제작하는 데 있어서 가장 능숙한 언어입니다.  
 >>> 간단한 프로그램부터 웹 연동, 데이터 베이스 연동 등의 복잡한 부분까지 개발 가능합니다.  
@@ -70,9 +70,13 @@
 >>> Work with Backend language such as javaScript and PHP.  
 >>> [GO-API Docs.](http://api.go-guma.com/) and GO-API Service were built using above languages
 >
->> ## Backend </br>
->> <img height="30" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> </br>
->> <img height="30" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </br>
+>> ## <img height="40" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> </br>
+>>> 상속, Interface, Thread의 요소들을 이용해 프로그래밍 할 수 있는 능력이 있습니다.  
+>>> 자료구조, 알고리즘 과목을 수강하면서 Linked List, Stack, Queue, Heap 구조를 학습하였습니다.
+>>
+>>> Ability to program using Extends, Interface, Thread.  
+>>> Learned Linked List, Stack, Queue, and Heap structure while taking 'Data Structure' and 'Algorithm'.  
+<!-- >> ## <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </br> -->
 
 </br>
 
@@ -104,17 +108,13 @@
 >
 >> ## CORONA VIEW (2020~)
 >> <img src="img/CORONAView.png" width="300"/> </br>
->>> chrome 웹 스토어 : [CORONA VIEW][CORONAView_chrome]   
 >>> GO-API를 활용한 사용자의 선택에 따른 확진자를 보여주는 크롬 Extension  
->>> 개발 언어 : PHP, JavaScript, HTML, CSS  
 >>> 개인 프로젝트  
->>> CORONA VIEW에 대한 자세한 내용은 [여기][CORONAView_git]에서 확인하실 수 있습니다.
+>>> Github : [CORONAView Github][CORONAView_git]  
 >>
->>> chrome WEB STORE : [CORONA VIEW][CORONAView_chrome]    
 >>> Showing COVID-19 infected data by each city from user choice using GO-API through chrome Extension  
->>> Develop Language : PHP, JavaScript, HTML, CSS  
 >>> Solo Project  
->>> Details of CORONA VIEW can be found [here][CORONAView_git]. 
+>>> Github : [CORONAView Github][CORONAView_git]  
 >
 >> ## GO API (2020~)
 >> <img src="img/GO_APILicense.png" width="300"/> </br>
