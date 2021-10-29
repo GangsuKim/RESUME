@@ -38,7 +38,8 @@
 >> |2021년 1학기|4.17|4.5|
 >> |**총합**|**4.06**|**4.25**|
 >> 
->> *4.5 만점*
+>> *4.5 만점*  
+>> 학점에 대한 상세한 내용은 [*이곳*][Courses_kor] 에서 확인하실 수 있습니다.
 >
 >> |Semester|GPA|Major GPA|
 >> |:---|:---:|:---:|
@@ -179,3 +180,4 @@
 [CORONAView_chrome]: https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol
 [GO-GUMA]: http://www.go-guma.com
 [GO-GUMA git]: https://github.com/GO-GUMA
+[Courses_kor]: Courses_Kor.md
