@@ -48,7 +48,7 @@
 >> |2021 Spring|3.67|4.0|
 >> |**Average**|**3.56**|**3.75**|  
 >> 
->> *Max 4.0*
+>> *Max 4.0*  
 >> Click [*here*][Courses_Eng] to check details of courses
 
 </br>
