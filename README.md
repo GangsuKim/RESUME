@@ -30,49 +30,6 @@
 
 </br>
 
-> # GPA
->> |학기|전체 성적|전공 성적|
->> |:---:|:---:|:---:|
->> |2020년 1학기|3.64|3.5|
->> |2020년 2학기|4.25|4.5|
->> |2021년 1학기|4.17|4.5|
->> |**총합**|**4.06**|**4.25**|
->> 
->> *4.5 만점*  
->> 학점에 대한 상세한 내용은 [*이곳*][Courses_kor] 에서 확인하실 수 있습니다.
->
->> |Semester|GPA|Major GPA|
->> |:---|:---:|:---:|
->> |2020 Spring|3.14|3.0|
->> |2020 Fall|3.75|4.0|
->> |2021 Spring|3.67|4.0|
->> |**Average**|**3.56**|**3.75**|  
->> 
->> *Max 4.0*  
->> Click [*here*][Courses_Eng] to check details of courses
-
-</br>
-
-> # Education
->> 한림대학교 소프트웨어 융합대학 (2020 ~ )  
->> 원주 대성고등학교 (2017.08 ~ 2020)  
->> 미국 콜로라도주 Arvada West High School (2016.09 ~ 2017.07)  
->> 원주 대성고등학교 (2016.03 ~ 2016.08)  
->
->> School of Software at Hallym Univ., Chunchon-si, South Korea(2020 ~ )  
->> Wonju DaeSung High School, Wonju-si, South Korea (2017.08 ~ 2020)  
->> Arvada West High School, Denver, Colorado, United States (2016.09 ~ 2017.07)  
->> Wonju DaeSung High School, Wonju-si, South Korea (2016.03 ~ 2016.08)  
-
-</br>
-
-> # Award
->> 제 32회 한국정보올림피아드 강원도대회 중학생부 동상 (2015)  
->
->> The 32nd Korea Olympiad in Informatics Gangwon-do Middle School Student 3rd place (2015)  
-
-</br>
-
 <!-- >> ## Most comfortable </br> -->
 > # Language
 >> ## <img height="40" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
@@ -162,6 +119,49 @@
 >>> Protect showing display  
 >>> Develope Language : Autohotkey, PHP  
 >>> Solo Project  
+
+</br>
+
+> # Award
+>> 제 32회 한국정보올림피아드 강원도대회 중학생부 동상 (2015)  
+>
+>> The 32nd Korea Olympiad in Informatics Gangwon-do Middle School Student 3rd place (2015)  
+
+</br>
+
+> # Education
+>> 한림대학교 소프트웨어 융합대학 (2020 ~ )  
+>> 원주 대성고등학교 (2017.08 ~ 2020)  
+>> 미국 콜로라도주 Arvada West High School (2016.09 ~ 2017.07)  
+>> 원주 대성고등학교 (2016.03 ~ 2016.08)  
+>
+>> School of Software at Hallym Univ., Chunchon-si, South Korea(2020 ~ )  
+>> Wonju DaeSung High School, Wonju-si, South Korea (2017.08 ~ 2020)  
+>> Arvada West High School, Denver, Colorado, United States (2016.09 ~ 2017.07)  
+>> Wonju DaeSung High School, Wonju-si, South Korea (2016.03 ~ 2016.08)  
+
+</br>
+
+> # GPA
+>> |학기|전체 성적|전공 성적|
+>> |:---:|:---:|:---:|
+>> |2020년 1학기|3.64|3.5|
+>> |2020년 2학기|4.25|4.5|
+>> |2021년 1학기|4.17|4.5|
+>> |**총합**|**4.06**|**4.25**|
+>> 
+>> *4.5 만점*  
+>> 학점에 대한 상세한 내용은 [*이곳*][Courses_kor] 에서 확인하실 수 있습니다.
+>
+>> |Semester|GPA|Major GPA|
+>> |:---|:---:|:---:|
+>> |2020 Spring|3.14|3.0|
+>> |2020 Fall|3.75|4.0|
+>> |2021 Spring|3.67|4.0|
+>> |**Average**|**3.56**|**3.75**|  
+>> 
+>> *Max 4.0*  
+>> Click [*here*][Courses_Eng] to check details of courses
 
 </br>
 
