@@ -49,6 +49,7 @@
 >> |**Average**|**3.56**|**3.75**|  
 >> 
 >> *Max 4.0*
+>> Click [*here*][Courses_Eng] to check details of courses
 
 </br>
 
@@ -181,3 +182,4 @@
 [GO-GUMA]: http://www.go-guma.com
 [GO-GUMA git]: https://github.com/GO-GUMA
 [Courses_kor]: Courses_Kor.md
+[Courses_Eng]: Courses_Eng.md
