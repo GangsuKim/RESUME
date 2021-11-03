@@ -128,7 +128,7 @@
 >> 한림대학교 2021 SW Week GitHub 이력서 콘테스트 해커톤 금상 (2021)
 >
 >> The 32nd Korea Olympiad in Informatics Gangwon-do Middle School Student 3rd place (2015)  
->> Hallym University 2021 SW Week UI/UX Design Contest 2nd place (2021)
+>> Hallym University 2021 SW Week UI/UX Design Contest 2nd place (2021)  
 >> Hallym University 2021 SW Week GitHub Resume Contest Hackathon 1st place (2021)
 
 </br>
