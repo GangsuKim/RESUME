@@ -124,8 +124,12 @@
 
 > # Award
 >> 제 32회 한국정보올림피아드 강원도대회 중학생부 동상 (2015)  
+>> 한림대학교 2021 SW Week UI/UX 설계안 공모전 은상 (2021)  
+>> 한림대학교 2021 SW Week GitHub 이력서 콘테스트 해커톤 금상 (2021)
 >
 >> The 32nd Korea Olympiad in Informatics Gangwon-do Middle School Student 3rd place (2015)  
+>> Hallym University 2021 SW Week UI/UX Design Contest 2nd place (2021)
+>> Hallym University 2021 SW Week GitHub Resume Contest Hackathon 1st place (2021)
 
 </br>
 
