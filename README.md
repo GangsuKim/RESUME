@@ -22,11 +22,11 @@
 > <img src="img/Hallym_SW.gif" width="500"/> </br>
 >> 한림대학교 소프트웨어 융합대학 </br>
 >> 빅데이터 전공 </br>
->> 2학년 </br>
+>> 3학년 </br>
 >
 >> School of Software at Hallym Univ. </br>
 >> Major of Big Data </br>
->> Sophomore </br>
+>> Junior </br>
 
 </br>
 
