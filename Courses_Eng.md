@@ -42,7 +42,7 @@ Details of Courses and GPA.
 ||**Major Grade**|**12**|**4.0**|
 ||**Grade**|**24**|**3.67**|
 
-## 2021년 2학기
+## 2021 Fall
 |Type|Courses|Credit|Grade|
 |:-:|:-|-:|:-:|
 |Major|Database Basic|3|A|
