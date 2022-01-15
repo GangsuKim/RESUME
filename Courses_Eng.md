@@ -42,4 +42,16 @@ Details of Courses and GPA.
 ||**Major Grade**|**12**|**4.0**|
 ||**Grade**|**24**|**3.67**|
 
+## 2021년 2학기
+|Type|Courses|Credit|Grade|
+|:-:|:-|-:|:-:|
+|Major|Database Basic|3|A|
+|Major|Special Lectures about Software II|3|B|
+|Major|Algorithm|3|A-|
+|Major|Introduction to Open Source Software|3|A|
+|Major|Introduction to scientific programming in python|3|A|
+|CTP|Prevention and Countermeasures against Violience in Schools|2|B|
+||**Major Grade**|**15**|**3.7**|
+||**Grade**|**17**|**3.62**|
+
 *CTP* : Curriculum for Teaching Profession
