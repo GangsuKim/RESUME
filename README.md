@@ -64,11 +64,11 @@
 > ## MyCourse (Pending)
 > <img src="img/MyCourse440.png" width="300"/> </br>  
 >> Coursemos 기반 E-Learning 플랫폼을 위한 크롬 Extension  
->> 개발 언어 및 기술 : HTML, CSS, JS  
+>> 개발 언어 : HTML, CSS, JS  
 >> 개인 프로젝트  
 >
 >> Chrome Extension for Coursemos based E-Learning platform    
->> Develop Language and Technology : HTML, CSS, JS  
+>> Develop Language : HTML, CSS, JS  
 >> Solo Project
 
 
