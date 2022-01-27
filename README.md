@@ -61,7 +61,18 @@
 </br>
 
  # 📖 Projects
-> ## Traum (2021.09 ~ )
+> ## MyCourse (Pending)
+> <img src="img/MyCourse440.png" width="300"/> </br>  
+>> Coursemos 기반 E-Learning 플랫폼을 위한 크롬 Extension  
+>> 개발 언어 및 기술 : HTML, CSS, JS  
+>> 개인 프로젝트  
+>
+>> Chrome Extension for Coursemos based E-Learning platform    
+>> Develop Language and Technology : HTML, CSS, JS  
+>> Solo Project
+
+
+> ## Traum (2021.09 ~ 2022.02)
 >> 한림대학교 소속 창업동아리  
 >> 센서 인식 기술을 이용한 실시간 좌석 인식 시스템  
 >> 개발 언어 및 기술 : HTML, CSS, JS, PHP, 아두이노  
@@ -86,7 +97,7 @@
 >> Part : Developed Raspberry Pi part (30%)  
 >> Team Project
 
-> ## CORONA VIEW (2020~)
+> ## CORONA VIEW (2020 ~ )
 > <img src="img/CORONAView.png" width="300"/> </br>
 >> GO-API를 활용한 사용자의 선택에 따른 확진자를 보여주는 크롬 Extension  
 >> 개인 프로젝트  
@@ -96,7 +107,7 @@
 >> Solo Project  
 >> Github : [CORONAView Github][CORONAView_git]  
 
-> ## GO API (2020~)
+> ## GO API (2020 ~ )
 > <img src="img/GO_APILicense.png" width="300"/> </br>
 >> API소개 : [GO-API][GO-API_Link]  
 >> 16개 광역시,도의 각 시,군,구별 COVID-19 확진자 현황  
