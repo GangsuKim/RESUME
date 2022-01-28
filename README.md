@@ -66,10 +66,14 @@
 >> Coursemos 기반 E-Learning 플랫폼을 위한 크롬 Extension  
 >> 개발 언어 : HTML, CSS, JS  
 >> 개인 프로젝트  
+>> Github : [MyCourse Github][MyCourse_git]  
+>> Chrome 웹 스토어 : [MyCourse 크롬 웹 스토어][MyCourse_chrome]
 >
 >> Chrome Extension for Coursemos based E-Learning platform    
 >> Develop Language : HTML, CSS, JS  
 >> Solo Project
+>> Github : [MyCourse Github][MyCourse_git]  
+>> Chrome Web Store : [MyCourse Chrome Web Store][MyCourse_chrome]
 
 
 > ## Traum (2021.09 ~ 2022.02)
@@ -196,6 +200,8 @@
 [GO-API_Link]: http://api.go-guma.com/
 [CORONAView_git]: https://github.com/GO-GUMA/CORONAView
 [CORONAView_chrome]: https://chrome.google.com/webstore/detail/%EC%BD%94%EB%A1%9C%EB%82%98-view/apejbphnejmhjninoemlaghpemekneol
+[MyCourse_git]: https://github.com/GO-GUMA/MyCourse
+[MyCourse_chrome]: https://chrome.google.com/webstore/detail/mycourse/hccakmcanlejgbahgglencckckkbhohn?hl=ko
 [GO-GUMA]: http://www.go-guma.com
 [GO-GUMA git]: https://github.com/GO-GUMA
 [Courses_kor]: Courses_Kor.md
