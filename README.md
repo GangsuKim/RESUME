@@ -61,7 +61,7 @@
 </br>
 
  # 📖 Projects
-> ## MyCourse (Pending)
+> ## MyCourse (2022.01 ~ )
 > <img src="img/MyCourse440.png" width="300"/> </br>  
 >> Coursemos 기반 E-Learning 플랫폼을 위한 크롬 Extension  
 >> 개발 언어 : HTML, CSS, JS  
