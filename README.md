@@ -59,6 +59,19 @@
 </br>
 
  # 📖 Projects
+> ## Details of Investment (2022.05 ~ 2022.06)  
+>> 2022년 1학기 웹프로그래밍 강의 기말과제  
+>> 개인 프로젝트  
+>> 개발 언어 : HTML, CSS, JS, PHP  
+>> Github : [DoI Github][DOI_git]    
+>> 데모 페이지 : [DoI DEMO](http://go-guma.com/demo/doi/)  
+>
+>> 2022 Spring semester final project of 'Web Programming' course  
+>> Solo Project  
+>> Develop Language : HTML, CSS, JS, PHP  
+>> Github : [DoI Github][DOI_git]    
+>> Demo page : [DoI DEMO](http://go-guma.com/demo/doi/)  
+
 > ## MyCourse (2022.01 ~ )
 > <img src="img/MyCourse440.png" width="300"/> </br>  
 >> Coursemos 기반 E-Learning 플랫폼을 위한 크롬 Extension  
@@ -206,3 +219,4 @@
 [GO-GUMA git]: https://github.com/GO-GUMA
 [Courses_kor]: Courses_Kor.md
 [Courses_Eng]: Courses_Eng.md
+[DOI_git]: https://github.com/GangsuKim/2022-web-programming-project
