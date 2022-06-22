@@ -60,6 +60,7 @@
 
  # 📖 Projects
 > ## Details of Investment (2022.05 ~ 2022.06)  
+> <img src="img/DoI.png" width="500"/> </br>  
 >> 2022년 1학기 웹프로그래밍 강의 기말과제  
 >> 개인 프로젝트  
 >> 개발 언어 : HTML, CSS, JS, PHP  
