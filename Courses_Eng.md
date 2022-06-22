@@ -54,4 +54,18 @@ Details of Courses and GPA.
 ||**Major Grade**|**15**|**3.7**|
 ||**Grade**|**17**|**3.62**|
 
+## 2022 SPring
+|Type|Courses|Credit|Grade|
+|:-:|:-|-:|:-:|
+|Core|Odyssey seminar 2|1|P|
+|Major|Software Capstone Design|3|A|
+|Major|Operating Systems|3|A|
+|Major|Web Back-end Programming using Servers|3|A|
+|Major|Web Programming|3|A|
+|Major|Artificial Intelligence|3|A|
+|CTP|Philosophy and history of education|2|B|
+|CTP|Introduction to education|2|B-|
+||**Major Grade**|**15**|**4.0**|
+||**Grade**|**20**|**3.74**|
+
 *CTP* : Curriculum for Teaching Profession
