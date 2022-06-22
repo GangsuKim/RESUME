@@ -30,22 +30,15 @@
 
 <!-- >> ## Most comfortable </br> -->
  # 💻 Language
-> ## <img height="40" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
->> 프로그램을 제작하는 데 있어서 가장 능숙한 언어입니다.  
->> 간단한 프로그램부터 웹 연동, 데이터 베이스 연동 등의 복잡한 부분까지 개발 가능합니다.  
->> [GOLocker](#golocker-20182020), [SmartLEADer][SmartLEADer] 와 같은 프로그램을 본 언어로 개발하였습니다.  
->
->> Most comfortable language for developing programs  
->> Possible to build simple programs to complex programs using WEB and Database   
->> [GOLocker](#golocker-20182020), [SmartLEADer][SmartLEADer] are made of Autohotkey   
- 
-> ## <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
->> HTML과 CSS를 이용하여 간단한 웹페이지 제작이 가능합니다.  
->> javaScript, PHP와 같은 Backend 언어와의 연동 작업도 할 수 있습니다.  
+> ## <img height="40" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
+>> 위의 언어들을 이용하여 Web Project 진행이 가능합니다.  
+>> 대부분의 프로젝트를 Web 프로젝트로 진행하였습니다.  
+>> javaScript, PHP, jQuery 와 같은 언어로도 작업이 가능합니다.  
 >> [GO-API Docs.](http://api.go-guma.com/) 사이트 와 GO-API 서비스를 위의 언어로 개발 하였습니다.
 >
->> Can build simple web pages using HTML and CSS.  
->> Work with Backend language such as javaScript and PHP.  
+>> Can run web projects with using above languages.  
+>> Most projects were built by Web Application.  
+>> Work with few language such as javaScript, PHP and jQuery.  
 >> [GO-API Docs.](http://api.go-guma.com/) and GO-API Service were built using above languages
 
 > ## <img height="40" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> </br>
@@ -55,6 +48,13 @@
 >> Ability to program using Extends, Interface, Thread.  
 >> Learned Linked List, Stack, Queue, and Heap structure while taking 'Data Structure' and 'Algorithm'.  
 <!-- >> ## <img height="40" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </br> -->
+
+> ## <img height="40" src="https://img.shields.io/badge/AutoHotkey-334455?style=flat-square&logo=AutoHotkey&logoColor=white"/> </br>
+>> 간단한 프로그램부터 웹 연동, 데이터 베이스 연동 등의 복잡한 부분까지 개발 가능합니다.  
+>> [GOLocker](#golocker-20182020), [SmartLEADer][SmartLEADer] 와 같은 프로그램을 본 언어로 개발하였습니다.  
+>
+>> Possible to build simple programs to complex programs using WEB and Database   
+>> [GOLocker](#golocker-20182020), [SmartLEADer][SmartLEADer] are made of Autohotkey   
 
 </br>
 
