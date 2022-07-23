@@ -1,5 +1,5 @@
 # RESUME
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGangsuKim%2FRESUME%2Fblob%2Fmain%2FREADME.md&count_bg=%233D71C8&title_bg=%234B4B4B&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 
  # :man: Gangsu Kim
