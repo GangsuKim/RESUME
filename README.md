@@ -59,12 +59,26 @@
 </br>
 
  # 📖 Projects
+> ## BEANPLACE | 빈공간 (2022.05 ~ 2022.06)  
+> <img src="img/BeanPlace.png" width="500"/> </br>  
+>> 2022년 1학기 웹서버구축 강의 기말과제  
+>> 개인 프로젝트  
+>> 개발 언어 및 스택 : HTML, CSS, JSP, Java, DB(SQL)   
+>> JSP Github : [BEANPLACE Github][BPL_JSP_git] (프로젝트 원본)   
+>> 데모 페이지 : 준비중  
+>
+>> 2022 Spring semester final project of 'Web Back-end Programming using Servers' course  
+>> Solo Project  
+>> Develop Language : HTML, CSS, JSP, Java, DB(SQL)  
+>> JSP Github : [BEANPLACE Github][BPL_JSP_git] (Original project source)    
+>> Demo page : In progess..  
+
 > ## Details of Investment (2022.05 ~ 2022.06)  
 > <img src="img/DoI.png" width="500"/> </br>  
 >> 2022년 1학기 웹프로그래밍 강의 기말과제  
 >> 개인 프로젝트  
 >> 개발 언어 : HTML, CSS, JS, PHP  
->> Github : [DoI Github][DOI_git]    
+>> JSP Github : [DoI Github][DOI_git]    
 >> 데모 페이지 : [DoI DEMO](http://go-guma.com/demo/doi/)  
 >
 >> 2022 Spring semester final project of 'Web Programming' course  
@@ -223,3 +237,4 @@
 [Courses_kor]: Courses_Kor.md
 [Courses_Eng]: Courses_Eng.md
 [DOI_git]: https://github.com/GangsuKim/2022-web-programming-project
+[BPL_JSP_git]: https://github.com/GangsuKim/2022-web-server-project-JSP
