@@ -78,7 +78,7 @@
 >> 2022년 1학기 웹프로그래밍 강의 기말과제  
 >> 개인 프로젝트  
 >> 개발 언어 : HTML, CSS, JS, PHP  
->> JSP Github : [DoI Github][DOI_git]    
+>> Github : [DoI Github][DOI_git]    
 >> 데모 페이지 : [DoI DEMO](http://go-guma.com/demo/doi/)  
 >
 >> 2022 Spring semester final project of 'Web Programming' course  
