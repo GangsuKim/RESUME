@@ -177,12 +177,14 @@
 </br>
 
  # 🎓 Education
+> 영국 University of York 하계 연수 (2022.07.04 ~ 2022.07.20)  
 > 한림대학교 소프트웨어 융합대학 (2020 ~ )  
 > 원주 대성고등학교 (2017.08 ~ 2020)  
 > 미국 콜로라도주 Arvada West High School (2016.09 ~ 2017.07)  
 > 원주 대성고등학교 (2016.03 ~ 2016.08)  
 
-> School of Software at Hallym Univ., Chunchon-si, South Korea(2020 ~ )  
+> UK University of York summer short course (2022.07.04 ~ 2022.07.20)   
+> School of Software at Hallym Univ., Chunchon-si, South Korea (2020 ~ )  
 > Wonju DaeSung High School, Wonju-si, South Korea (2017.08 ~ 2020)  
 > Arvada West High School, Denver, Colorado, United States (2016.09 ~ 2017.07)  
 > Wonju DaeSung High School, Wonju-si, South Korea (2016.03 ~ 2016.08)  
