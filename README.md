@@ -59,6 +59,20 @@
 </br>
 
  # 📖 Projects
+> ## 안녕하세요. 김강수 입니다. (2022.07 ~ )  
+> <img src="https://github.com/GangsuKim/portfolio-site/blob/master/images/portfolio.png?raw=true" width="500"/> </br>  
+>> 저 자신만을 위한 개인 포트폴리오 사이트 입니다.  
+>> 개인 프로젝트  
+>> 개발 언어 및 스택 : HTML, CSS, JS, jQuery  
+>> Github : [GANGSU.KIM Github](https://github.com/GangsuKim/portfolio-site)  
+>> Protfolio : [GANGSU.KIM](http://gangsu.kim)  
+>
+>> Personal portfolio site  
+>> Solo Project  
+>> Develop Language : HTML, CSS, JS, jQuery  
+>> Github : [GANGSU.KIM Github](https://github.com/GangsuKim/portfolio-site)  
+>> Protfolio : [GANGSU.KIM](http://gangsu.kim)   
+ 
 > ## BEANPLACE | 빈공간 (2022.05 ~ 2022.06)  
 > <img src="img/BeanPlace.png" width="500"/> </br>  
 >> 2022년 1학기 웹서버구축 강의 기말과제  
