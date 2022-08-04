@@ -60,7 +60,7 @@
 
  # 📖 Projects
 > ## 안녕하세요. 김강수 입니다. (2022.07 ~ )  
-> <img src="https://github.com/GangsuKim/portfolio-site/blob/master/images/portfolio.png?raw=true" width="500"/> </br>  
+> <img src="img/portfolio.png" width="500"/> </br>  
 >> 저 자신만을 위한 개인 포트폴리오 사이트 입니다.  
 >> 개인 프로젝트  
 >> 개발 언어 및 스택 : HTML, CSS, JS, jQuery  
