@@ -182,11 +182,13 @@
 > 한림대학교 2021 SW Week UI/UX 설계안 공모전 은상 (2021)  
 > 한림대학교 2021 SW Week GitHub 이력서 콘테스트 해커톤 금상 (2021)  
 > 한림대학교 2022년 1학기 캡스톤 디자인 경진대회 대상 (2022)
+> 한림대학교 2022 SW Week 미래기술 특허 아이디어 경진대회 동상 (2022)
 
 > The 32nd Korea Olympiad in Informatics Gangwon-do Middle School Student 3rd place (2015)  
 > Hallym University 2021 SW Week UI/UX Design Contest 2nd place (2021)  
 > Hallym University 2021 SW Week GitHub Resume Contest Hackathon 1st place (2021)  
 > Hallym University 2022 Spring Capston Design Contest 1st place (2022)
+> Hallym University 2022 SW Week Future Technology Patent Idea Contest 3rd place (2022)
 
 </br>
 
