@@ -235,6 +235,8 @@
 
 </br>
 
+[![GangsuKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=GangsuKim)](https://github.com/GangsuKim/github-readme-stats)
+
 > # Branding
 > ![GO-GUMA](img/GO.png)
 >> # GO-GUMA Corp.
